@@ -8,4 +8,4 @@
 
 ## Planned technologies
 
-In this project I'm going to applay my knowledge of **PostgreSQL** + **Python** and analysis thinking throught presentation in **Power BI**.
+I applied my knowledge of **PostgreSQL** + **Python** and analysis thinking through presentation in **Power BI**.
